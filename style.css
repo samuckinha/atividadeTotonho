@@ -7,8 +7,8 @@
 /* Corpo da página */
 body {
   font-family: 'Arial', sans-serif;
-  background-color: #f4f4f9; /* Um fundo mais suave */
-  color: #333;
+  background-color: #c3c3ff; /* Um fundo mais suave */
+  color: #bdb7b7;
   line-height: 1.6;
   text-align: center;
   padding: 20px;
@@ -50,7 +50,7 @@ p {
 /* Estilo do botão (caso queira adicionar um no futuro) */
 button {
   padding: 10px 20px;
-  background-color: #2a9d8f;
+  background-color: #538aa3;
   border: none;
   color: white;
   font-size: 1.1rem;
