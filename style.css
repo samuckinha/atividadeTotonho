@@ -8,7 +8,7 @@
 body {
   font-family: 'Arial', sans-serif;
   background-color: #c3c3ff; /* Um fundo mais suave */
-  color: #bdb7b7;
+  color: #5ceafd;
   line-height: 1.6;
   text-align: center;
   padding: 20px;
@@ -44,7 +44,7 @@ p {
 
 .resultados p {
   font-size: 1.2rem;
-  color: #333;
+  color: #83cedb;
 }
 
 /* Estilo do botão (caso queira adicionar um no futuro) */
@@ -52,7 +52,7 @@ button {
   padding: 10px 20px;
   background-color: #538aa3;
   border: none;
-  color: white;
+  color: rgb(255, 255, 255);
   font-size: 1.1rem;
   cursor: pointer;
   border-radius: 5px;
